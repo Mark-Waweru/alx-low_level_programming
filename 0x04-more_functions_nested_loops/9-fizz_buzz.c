@@ -32,6 +32,11 @@ int main(void)
 			printf("Buzz ");
 			n++;
 		}
+		else if ((n == 100) && (m5 == 0))
+		{
+			printf("Buzz");
+			n++;
+		}
 		else
 		{
 			printf("%d ", n);
