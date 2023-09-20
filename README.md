@@ -11,4 +11,6 @@ This repo contains bash shell scripts and C program files on alx-software_engine
 
 0x04-more_functions_nested_loop
 
-0x05-pointers_arrays_stringss
+0x05-pointers_arrays_strings
+
+0x06-pointers_arrays_strings
