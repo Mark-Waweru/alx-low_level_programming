@@ -1,12 +1,7 @@
 *main.c
 
-a.out
-capstring
-flags
-flags2
-revarray
-strcat
-strcmp
-stringtoupper
-strncat
-strncpy
+leet
+magic
+rot13
+printnumber
+
