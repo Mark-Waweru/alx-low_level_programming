@@ -1,0 +1,11 @@
+*main.c
+strstr
+strspn
+strpbrk
+strchr
+memset
+memcpy
+diagsum
+chessboard
+_putchar.c
+flags
