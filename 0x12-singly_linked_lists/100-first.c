@@ -1,5 +1,6 @@
 #include <stdio.h>
 
+void before_main(void)__attribute__((constructor));
 /**
  * before_main - prints the following characters before main
  *
