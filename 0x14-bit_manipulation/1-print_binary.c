@@ -7,13 +7,13 @@
  *
  * Return: value of (base ^ power)
  */
-unsigned int power(unsigned int base, unsigned int power)
+unsigned long int power(unsigned int base, unsigned int power)
 {
 	unsigned long int n;
 	unsigned int i;
 
 	n = 1;
-	for (i = 0; i <= power; i++)
+	for (i = 1; i <= power; i++)
 	{
 		n *= base;
 	}

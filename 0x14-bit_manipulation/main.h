@@ -15,7 +15,7 @@ unsigned int flip_bits(unsigned long int n, unsigned long int m);
 
 int get_endianness(void);
 
-unsigned int power(unsigned int base, unsigned int power);
+unsigned long int power(unsigned int base, unsigned int power);
 
 int _putchar(char c);
 
